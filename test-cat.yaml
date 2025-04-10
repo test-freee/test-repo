@@ -4,7 +4,7 @@ metadata:
   name: test-cat
   description: backstage.io
   annotations:
-    github.com/project-slug: 'oaz1cob/oaz1cob'
+    github.com/project-slug: 'test-freee/test-repo'
 spec:
   type: website
   lifecycle: production
